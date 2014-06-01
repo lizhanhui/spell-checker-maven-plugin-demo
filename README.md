@@ -1,2 +1,2 @@
-Demo usage of spell-checker-maven-plugin
+Demo usage of source code [spell-checker-maven-plugin](https://github.com/lizhanhui/source-spell-checker)
 ==========
