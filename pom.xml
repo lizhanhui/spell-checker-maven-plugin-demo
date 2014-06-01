@@ -33,7 +33,11 @@
                 </configuration>
                 <executions>
                     <execution>
+                        <id>check-source-spelling</id>
                         <phase>compile</phase>
+                        <goals>
+                            <goal>check</goal>
+                        </goals>
                     </execution>
                 </executions>
             </plugin>
